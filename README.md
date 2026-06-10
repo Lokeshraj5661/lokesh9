@@ -1,5 +1,7 @@
 # lokesh9 # # 💫 About Me:
-I'm currently pursuing my 3rd year btech in kl university.<br>i'm looking to collabrate on a fullstack and cyber security projects.<br>
+I am an aspiring AI & Security Engineer currently in my 3rd year of B.Tech at KL University.<br>
+My technical experience includes working with Natural Language Processing (NLP) and building Phishing Detection Systems.<br>
+I am actively looking to collaborate on exciting Full-Stack Web Development and Cyber Security projects.<br>
 
 
 ## 🌐 Socials:
